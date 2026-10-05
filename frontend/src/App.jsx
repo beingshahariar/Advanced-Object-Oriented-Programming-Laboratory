@@ -5,7 +5,8 @@ import {
   Download, ExternalLink, MapPin, MessageCircle, Pencil, Plus, RefreshCw, Save, Search, Settings, Star, Upload,
   ShieldCheck, Target, Trash2, Users,
 } from "lucide-react";
-import { AdminApplications, AdminCommunity, AdminContentManager, AdminOverview, AdminProfile, AdminStudents } from "./AdminDashboard";
+import { AdminApplications, AdminContentManager, AdminOverview, AdminProfile, AdminStudents } from "./AdminDashboard";
+import { AdminCommunity } from "./AdminCommunity";
 import adminCareerServicesPhoto from "./assets/auth-admin-career-services.png";
 import registerStudentPhoto from "./assets/auth-register-student.png";
 import studentLoginPhoto from "./assets/auth-student-login.png";

@@ -32,6 +32,14 @@ for /f "delims=" %%M in ('dir /b /s "%ProgramFiles%\JetBrains\mvn.cmd" 2^>nul') 
   set "MAVEN_CMD=%%M"
   goto maven_found
 )
+if not defined MAVEN_CMD (
+  for /d %%D in ("%ProgramFiles%\JetBrains\*") do (
+    if not defined MAVEN_CMD if exist "%%~fD\plugins\maven-plugin\lib\maven3\bin\mvn.cmd" (
+      set "MAVEN_CMD=%%~fD\plugins\maven-plugin\lib\maven3\bin\mvn.cmd"
+      goto maven_found
+    )
+  )
+)
 :maven_found
 if not defined MAVEN_CMD (
   if exist "%PROJECT_ROOT%..\Software Lab Project\backend\mvnw.cmd" set "MAVEN_CMD=%PROJECT_ROOT%..\Software Lab Project\backend\mvnw.cmd"

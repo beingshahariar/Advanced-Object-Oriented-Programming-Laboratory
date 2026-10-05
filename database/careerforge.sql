@@ -72,7 +72,7 @@ CREATE TABLE jobs (
   company_id BIGINT UNSIGNED NOT NULL,
   created_by BIGINT UNSIGNED NULL,
   source VARCHAR(40) NULL,
-  external_id VARCHAR(100) NULL,
+  external_id VARCHAR(512) NULL,
   source_url VARCHAR(600) NULL,
   title VARCHAR(220) NOT NULL,
   location VARCHAR(500) NULL,

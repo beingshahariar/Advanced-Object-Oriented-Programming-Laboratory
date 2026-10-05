@@ -64,7 +64,9 @@ public class AdminCommunityService {
     public AdminCommunityPostResponse rescan(Long adminId, Long postId) {
         access.requireAdmin(adminId);
         CommunityPost post = posts.findById(postId).orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Post not found."));
-        CommunityModerationService.Result result = moderation.analyse(post.getContent(), posts.findByUserIdAndCreatedAtAfter(post.getUserId(), java.time.LocalDateTime.now().minusHours(24)));
+        List<CommunityPost> recentPosts = posts.findByUserIdAndCreatedAtAfter(post.getUserId(), java.time.LocalDateTime.now().minusHours(24)).stream()
+                .filter(candidate -> !postId.equals(candidate.getId())).toList();
+        CommunityModerationService.Result result = moderation.analyse(post.getContent(), recentPosts);
         post.applyModeration(result.spamScore(), result.fraudScore(), result.riskScore(), result.riskLabel(), result.reasons(), result.status());
         return postResponse(post);
     }

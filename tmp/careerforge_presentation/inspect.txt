@@ -1,0 +1,133 @@
+{"kind":"slide","id":"sl/7ogc5o","slide":1,"title":"career","textShapes":7}
+{"kind":"shape","id":"sh/mxgvyhg7","slide":1,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/8zyd0ryx","slide":1,"bbox":[664,0,230,720]}
+{"kind":"shape","id":"sh/vm9cv6xo","slide":1,"bbox":[650,0,110,720]}
+{"kind":"textbox","id":"sh/u10v21g3","slide":1,"text":"career","textPreview":"career","textChars":6,"textLines":1,"bbox":[72,78,215,66]}
+{"kind":"textbox","id":"sh/horuxwfu","slide":1,"text":"forge","textPreview":"forge","textChars":5,"textLines":1,"bbox":[278,78,180,66]}
+{"kind":"textbox","id":"sh/wnid4ry9","slide":1,"text":"A student career platform","textPreview":"A student career platform","textChars":25,"textLines":1,"bbox":[72,202,590,70]}
+{"kind":"textbox","id":"sh/bq5cj2hk","slide":1,"text":"From preparation to opportunity—one connected journey.","textPreview":"From preparation to opportunity—one connected journey.","textChars":54,"textLines":1,"bbox":[72,358,520,42]}
+{"kind":"shape","id":"sh/a5wbqxgz","slide":1,"bbox":[72,466,522,108]}
+{"kind":"textbox","id":"sh/k3u10321","slide":1,"text":"API-INTEGRATED PLATFORM","textPreview":"API-INTEGRATED PLATFORM","textChars":23,"textLines":1,"bbox":[98,488,390,22]}
+{"kind":"textbox","id":"sh/l43itojm","slide":1,"text":"Jobs • YouTube • Gemini / Groq","textPreview":"Jobs • YouTube • Gemini / Groq","textChars":30,"textLines":1,"bbox":[98,520,430,30]}
+{"kind":"textbox","id":"sh/yhcjytkv","slide":1,"text":"React  •  Spring Boot REST APIs  •  MySQL","textPreview":"React  •  Spring Boot REST APIs  •  MySQL","textChars":41,"textLines":1,"bbox":[72,616,528,28]}
+{"kind":"image","id":"im/gzmx8byl","slide":1,"name":"","geometry":"roundRect","alt":"Bangladeshi student preparing for career opportunities","bbox":[714,0,566,720]}
+{"kind":"notes","id":"nt/7ogc5o","slide":1,"text":"Opening slide: introduce CareerForge and briefly highlight the external API integrations and technology stack.\n\n[Sources]\n- Slide copy: user-provided CareerForge motivation speech.\n- Visual: local project asset hero-bangladeshi-job-search.png.\n[/Sources]"}
+{"kind":"slide","id":"sl/mqu5xs","slide":2,"title":"02  /  THE TEAM BEHIND THE IDEA","textShapes":14}
+{"kind":"textbox","id":"sh/1c7qd0fu","slide":2,"text":"02  /  THE TEAM BEHIND THE IDEA","textPreview":"02  /  THE TEAM BEHIND THE IDEA","textChars":31,"textLines":1,"bbox":[72,54,420,24]}
+{"kind":"shape","id":"sh/e9g7i5w3","slide":2,"bbox":[72,88,92,0]}
+{"kind":"textbox","id":"sh/fap8baxo","slide":2,"text":"We are ByteBots.","textPreview":"We are ByteBots.","textChars":16,"textLines":1,"bbox":[72,124,575,72]}
+{"kind":"textbox","id":"sh/s7epgved","slide":2,"text":"A team focused on turning the student career journey into one clear, useful experience.","textPreview":"A team focused on turning the student career journey into one clear, useful experience.","textChars":87,"textLines":1,"bbox":[72,210,560,62]}
+{"kind":"shape","id":"sh/d87q90fy","slide":2,"bbox":[72,320,82,218]}
+{"kind":"textbox","id":"sh/q5w7elg7","slide":2,"text":"BYTE\nBOTS","textPreview":"BYTE | BOTS","textChars":9,"textLines":2,"bbox":[82,358,64,120]}
+{"kind":"textbox","id":"sh/r65o7qxs","slide":2,"text":"Md. All Shahariar Shakib","textPreview":"Md. All Shahariar Shakib","textChars":24,"textLines":1,"bbox":[188,320,470,30]}
+{"kind":"textbox","id":"sh/43epcby1","slide":2,"text":"ID  0112330360","textPreview":"ID  0112330360","textChars":14,"textLines":1,"bbox":[700,324,265,24]}
+{"kind":"shape","id":"sh/54n65gfm","slide":2,"bbox":[188,363,777,0]}
+{"kind":"textbox","id":"sh/xgjqtcra","slide":2,"text":"Sadeed S'aad Zaman Shefin","textPreview":"Sadeed S'aad Zaman Shefin","textChars":25,"textLines":1,"bbox":[188,376,470,30]}
+{"kind":"textbox","id":"sh/wfq9k7q5","slide":2,"text":"ID  0112330362","textPreview":"ID  0112330362","textChars":14,"textLines":1,"bbox":[700,380,265,24]}
+{"kind":"shape","id":"sh/veh8rm9k","slide":2,"bbox":[188,419,777,0]}
+{"kind":"textbox","id":"sh/ad8rihsz","slide":2,"text":"Md. Imran Iqbal","textPreview":"Md. Imran Iqbal","textChars":15,"textLines":1,"bbox":[188,432,470,30]}
+{"kind":"textbox","id":"sh/9czqpcre","slide":2,"text":"ID  0112230138","textPreview":"ID  0112230138","textChars":14,"textLines":1,"bbox":[700,436,265,24]}
+{"kind":"shape","id":"sh/8bq9g7at","slide":2,"bbox":[188,475,777,0]}
+{"kind":"textbox","id":"sh/nqh8n298","slide":2,"text":"Md. Mazharul Islam","textPreview":"Md. Mazharul Islam","textChars":18,"textLines":1,"bbox":[188,488,470,30]}
+{"kind":"textbox","id":"sh/mp8rexsn","slide":2,"text":"ID  0112330700","textPreview":"ID  0112330700","textChars":14,"textLines":1,"bbox":[700,492,265,24]}
+{"kind":"shape","id":"sh/1ofqlsri","slide":2,"bbox":[188,531,777,0]}
+{"kind":"shape","id":"sh/0n69snax","slide":2,"bbox":[72,674,1136,0]}
+{"kind":"textbox","id":"sh/c3uhormp","slide":2,"text":"BYTEBOTS  /  CAREERFORGE","textPreview":"BYTEBOTS  /  CAREERFORGE","textChars":24,"textLines":1,"bbox":[72,684,320,22]}
+{"kind":"textbox","id":"sh/d43ixw3a","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1150,682,58,24]}
+{"kind":"notes","id":"nt/mqu5xs","slide":2,"text":"Introduce the team members before moving into the motivation behind the project.\n\n[Sources]\n- Slide copy: user-provided CareerForge motivation speech.\n[/Sources]"}
+{"kind":"slide","id":"sl/e2neo1","slide":3,"title":"03  /  OUR MOTIVATION","textShapes":7}
+{"kind":"shape","id":"sh/jatgr21g","slide":3,"bbox":[670,0,130,720]}
+{"kind":"textbox","id":"sh/i9kfix0v","slide":3,"text":"03  /  OUR MOTIVATION","textPreview":"03  /  OUR MOTIVATION","textChars":21,"textLines":1,"bbox":[72,54,420,24]}
+{"kind":"shape","id":"sh/xorepsja","slide":3,"bbox":[72,88,92,0]}
+{"kind":"textbox","id":"sh/wnixgnip","slide":3,"text":"Students know they need a job.","textPreview":"Students know they need a job.","textChars":30,"textLines":1,"bbox":[72,148,575,70]}
+{"kind":"textbox","id":"sh/vm9wni14","slide":3,"text":"But many do not know the right way to prepare for it.","textPreview":"But many do not know the right way to prepare for it.","textChars":53,"textLines":1,"bbox":[72,234,570,105]}
+{"kind":"textbox","id":"sh/al0fed0j","slide":3,"text":"That gap between ambition and preparation is where the career journey becomes difficult.","textPreview":"That gap between ambition and preparation is where the career journey becomes difficult.","textChars":88,"textLines":1,"bbox":[72,387,518,86]}
+{"kind":"textbox","id":"sh/hkvy1cje","slide":3,"text":"A better career journey should be clear, connected, and student-centered.","textPreview":"A better career journey should be clear, connected, and student-centered.","textChars":73,"textLines":1,"bbox":[72,570,560,50]}
+{"kind":"shape","id":"sh/gjmxsri9","slide":3,"bbox":[72,674,1136,0]}
+{"kind":"textbox","id":"sh/2xcbax07","slide":3,"text":"CAREERFORGE","textPreview":"CAREERFORGE","textChars":11,"textLines":1,"bbox":[72,684,320,22]}
+{"kind":"textbox","id":"sh/3ylcj21s","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1150,682,58,24]}
+{"kind":"image","id":"im/dwj25kz2","slide":3,"name":"","geometry":"roundRect","alt":"Student looking toward a successful career","bbox":[740,0,540,720]}
+{"kind":"notes","id":"nt/e2neo1","slide":3,"text":"Start the motivation: students often know they need a job, yet are unsure how to prepare for one.\n\n[Sources]\n- Slide copy: user-provided CareerForge motivation speech.\n- Visual: local project asset hero-student-success.png.\n[/Sources]"}
+{"kind":"slide","id":"sl/s8zsfq","slide":4,"title":"04  /  CHALLENGE ONE","textShapes":10}
+{"kind":"textbox","id":"sh/187qd8n6","slide":4,"text":"04  /  CHALLENGE ONE","textPreview":"04  /  CHALLENGE ONE","textChars":20,"textLines":1,"bbox":[72,54,420,24]}
+{"kind":"shape","id":"sh/elg7itof","slide":4,"bbox":[72,88,92,0]}
+{"kind":"textbox","id":"sh/fmpoby50","slide":4,"text":"Opportunity is scattered.","textPreview":"Opportunity is scattered.","textChars":25,"textLines":1,"bbox":[72,124,630,64]}
+{"kind":"textbox","id":"sh/sjypgj6p","slide":4,"text":"Students search for jobs across many separate places.","textPreview":"Students search for jobs across many separate places.","textChars":53,"textLines":1,"bbox":[72,205,615,48]}
+{"kind":"textbox","id":"sh/dk769onu","slide":4,"text":"LinkedIn","textPreview":"LinkedIn","textChars":8,"textLines":1,"bbox":[76,360,150,36]}
+{"kind":"textbox","id":"sh/qhw7etoj","slide":4,"text":"Facebook groups","textPreview":"Facebook groups","textChars":15,"textLines":1,"bbox":[246,360,220,36]}
+{"kind":"textbox","id":"sh/ri5o7yp4","slide":4,"text":"Bdjobs","textPreview":"Bdjobs","textChars":6,"textLines":1,"bbox":[492,360,125,36]}
+{"kind":"textbox","id":"sh/4fepcj6d","slide":4,"text":"Company websites","textPreview":"Company websites","textChars":16,"textLines":1,"bbox":[76,423,285,36]}
+{"kind":"shape","id":"sh/5gn65o7y","slide":4,"bbox":[72,321,540,0]}
+{"kind":"textbox","id":"sh/543q5k3a","slide":4,"text":"Result: time is lost—and suitable opportunities can be missed.","textPreview":"Result: time is lost—and suitable opportunities can be missed.","textChars":62,"textLines":1,"bbox":[72,520,560,64]}
+{"kind":"shape","id":"sh/32l83al4","slide":4,"bbox":[72,674,1136,0]}
+{"kind":"textbox","id":"sh/i1cru5kz","slide":4,"text":"CAREERFORGE","textPreview":"CAREERFORGE","textChars":11,"textLines":1,"bbox":[72,684,320,22]}
+{"kind":"textbox","id":"sh/h0jq103e","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1150,682,58,24]}
+{"kind":"image","id":"im/fel4jmx8","slide":4,"name":"","geometry":"roundRect","alt":"Student navigating a career search online","bbox":[790,80,348,545]}
+{"kind":"notes","id":"nt/s8zsfq","slide":4,"text":"Explain that job information is spread across LinkedIn, Facebook groups, Bdjobs, and company websites—making discovery time-consuming.\n\n[Sources]\n- Slide copy: user-provided CareerForge motivation speech.\n- Visual: local project asset auth-student-login.png.\n[/Sources]"}
+{"kind":"slide","id":"sl/ljjhck","slide":5,"title":"05  /  CHALLENGE TWO","textShapes":6}
+{"kind":"textbox","id":"sh/0zidcbyd","slide":5,"text":"05  /  CHALLENGE TWO","textPreview":"05  /  CHALLENGE TWO","textChars":20,"textLines":1,"bbox":[72,54,420,24]}
+{"kind":"shape","id":"sh/zy9c36hs","slide":5,"bbox":[72,88,92,0]}
+{"kind":"textbox","id":"sh/94re9gzu","slide":5,"text":"Finding a job\nis only the beginning.","textPreview":"Finding a job | is only the beginning.","textChars":36,"textLines":2,"bbox":[548,142,590,122]}
+{"kind":"textbox","id":"sh/83idgby9","slide":5,"text":"Many students do not know how to adapt their CV for a specific role—or how to show the most relevant skills.","textPreview":"Many students do not know how to adapt their CV for a specific role—or how to show the most relevant skills.","textChars":108,"textLines":1,"bbox":[552,305,550,98]}
+{"kind":"shape","id":"sh/n29w76ho","slide":5,"bbox":[552,442,510,0]}
+{"kind":"textbox","id":"sh/m10velg3","slide":5,"text":"A strong application needs a clear connection between a student’s profile and a job’s requirements.","textPreview":"A strong application needs a clear connection between a student’s profile and a job’s requirements.","textChars":99,"textLines":1,"bbox":[552,478,540,90]}
+{"kind":"shape","id":"sh/p87uxwza","slide":5,"bbox":[72,674,1136,0]}
+{"kind":"textbox","id":"sh/o7yd4ry5","slide":5,"text":"CAREERFORGE","textPreview":"CAREERFORGE","textChars":11,"textLines":1,"bbox":[72,684,320,22]}
+{"kind":"textbox","id":"sh/ul4fulor","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1150,682,58,24]}
+{"kind":"image","id":"im/r6p4zq58","slide":5,"name":"","geometry":"roundRect","alt":"Student preparing for a professional opportunity","bbox":[72,126,392,468]}
+{"kind":"notes","id":"nt/ljjhck","slide":5,"text":"Explain the second challenge: after finding a job, students may struggle to make a role-specific CV and present the relevant skills.\n\n[Sources]\n- Slide copy: user-provided CareerForge motivation speech.\n- Visual: local project asset auth-register-student.png.\n[/Sources]"}
+{"kind":"slide","id":"sl/afx9vi","slide":6,"title":"06  /  CHALLENGE THREE","textShapes":9}
+{"kind":"textbox","id":"sh/90rqxozm","slide":6,"text":"06  /  CHALLENGE THREE","textPreview":"06  /  CHALLENGE THREE","textChars":22,"textLines":1,"bbox":[72,54,420,24]}
+{"kind":"shape","id":"sh/mx072tgb","slide":6,"bbox":[72,88,92,0]}
+{"kind":"textbox","id":"sh/7y98vyhw","slide":6,"text":"“Am I ready\nfor this role?”","textPreview":"“Am I ready | for this role?”","textChars":27,"textLines":2,"bbox":[72,132,486,128]}
+{"kind":"textbox","id":"sh/wn2983yd","slide":6,"text":"Students may find a role they want, but still be unsure about the skills it needs, where to learn them, and how to measure their readiness.","textPreview":"Students may find a role they want, but still be unsure about the skills it needs, where to learn them, and how to measure their readiness.","textChars":139,"textLines":1,"bbox":[72,315,520,116]}
+{"kind":"textbox","id":"sh/hobq18zy","slide":6,"text":"Required skills","textPreview":"Required skills","textChars":15,"textLines":1,"bbox":[716,157,330,35]}
+{"kind":"textbox","id":"sh/ul076tg7","slide":6,"text":"Learning resources","textPreview":"Learning resources","textChars":18,"textLines":1,"bbox":[716,280,400,35]}
+{"kind":"textbox","id":"sh/vm98zyhs","slide":6,"text":"Assessments & progress","textPreview":"Assessments & progress","textChars":22,"textLines":1,"bbox":[716,403,420,35]}
+{"kind":"shape","id":"sh/crypwji9","slide":6,"bbox":[652,206,416,0]}
+{"kind":"shape","id":"sh/xs7qp4zu","slide":6,"bbox":[652,329,416,0]}
+{"kind":"shape","id":"sh/p8by1kfm","slide":6,"bbox":[652,452,416,0]}
+{"kind":"textbox","id":"sh/o72h8fy1","slide":6,"text":"When these are disconnected, preparation becomes harder than it needs to be.","textPreview":"When these are disconnected, preparation becomes harder than it needs to be.","textChars":76,"textLines":1,"bbox":[72,561,665,56]}
+{"kind":"shape","id":"sh/36tgzuhg","slide":6,"bbox":[72,674,1136,0]}
+{"kind":"textbox","id":"sh/25kz6pgb","slide":6,"text":"CAREERFORGE","textPreview":"CAREERFORGE","textChars":11,"textLines":1,"bbox":[72,684,320,22]}
+{"kind":"textbox","id":"sh/dcvi54fy","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1150,682,58,24]}
+{"kind":"notes","id":"nt/afx9vi","slide":6,"text":"Explain the skill-preparation problem: required skills, learning materials, and assessment platforms are separate, so students cannot easily judge readiness.\n\n[Sources]\n- Slide copy: user-provided CareerForge motivation speech.\n[/Sources]"}
+{"kind":"slide","id":"sl/gjqpg3","slide":7,"title":"07  /  CHALLENGE FOUR","textShapes":6}
+{"kind":"textbox","id":"sh/k7elwf2l","slide":7,"text":"07  /  CHALLENGE FOUR","textPreview":"07  /  CHALLENGE FOUR","textChars":21,"textLines":1,"bbox":[72,54,420,24]}
+{"kind":"shape","id":"sh/z6l43al0","slide":7,"bbox":[72,88,92,0]}
+{"kind":"textbox","id":"sh/y5c3u5kf","slide":7,"text":"Career guidance should\nnot be difficult to reach.","textPreview":"Career guidance should | not be difficult to reach.","textChars":49,"textLines":2,"bbox":[72,128,580,124]}
+{"kind":"textbox","id":"sh/9wnm9k32","slide":7,"text":"Students often need support from seniors and peers to understand career paths, improve their skills, and prepare for interviews.","textPreview":"Students often need support from seniors and peers to understand career paths, improve their skills, and prepare for interviews.","textChars":128,"textLines":1,"bbox":[72,295,575,100]}
+{"kind":"textbox","id":"sh/8ve50f2x","slide":7,"text":"But support, mentorship, resources, and opportunities are rarely available in one connected place.","textPreview":"But support, mentorship, resources, and opportunities are rarely available in one connected place.","textChars":98,"textLines":1,"bbox":[72,492,575,72]}
+{"kind":"shape","id":"sh/m9wnypkr","slide":7,"bbox":[72,674,1136,0]}
+{"kind":"textbox","id":"sh/p03mx03y","slide":7,"text":"CAREERFORGE","textPreview":"CAREERFORGE","textChars":11,"textLines":1,"bbox":[72,684,320,22]}
+{"kind":"textbox","id":"sh/ozalov2d","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1150,682,58,24]}
+{"kind":"image","id":"im/ex4fml8z","slide":7,"name":"","geometry":"roundRect","alt":"Student accessing career guidance and support","bbox":[792,76,352,550]}
+{"kind":"notes","id":"nt/gjqpg3","slide":7,"text":"Explain why mentorship, peer support, resources, and opportunities should be accessible through one connected platform.\n\n[Sources]\n- Slide copy: user-provided CareerForge motivation speech.\n- Visual: local project asset auth-admin-career-services.png.\n[/Sources]"}
+{"kind":"slide","id":"sl/luiv1i","slide":8,"title":"08  /  OUR RESPONSE","textShapes":14}
+{"kind":"textbox","id":"sh/wz2ps3ih","slide":8,"text":"08  /  OUR RESPONSE","textPreview":"08  /  OUR RESPONSE","textChars":19,"textLines":1,"bbox":[72,54,420,24]}
+{"kind":"shape","id":"sh/vytojyhw","slide":8,"bbox":[72,88,92,0]}
+{"kind":"textbox","id":"sh/uxk7qt0b","slide":8,"text":"This is why we built CareerForge.","textPreview":"This is why we built CareerForge.","textChars":33,"textLines":1,"bbox":[72,126,990,64]}
+{"kind":"textbox","id":"sh/54vqpszy","slide":8,"text":"One platform that connects the full student career journey.","textPreview":"One platform that connects the full student career journey.","textChars":59,"textLines":1,"bbox":[72,208,850,40]}
+{"kind":"textbox","id":"sh/432pwnid","slide":8,"text":"Discover","textPreview":"Discover","textChars":8,"textLines":1,"bbox":[94,347,155,36]}
+{"kind":"textbox","id":"sh/j2t8nihs","slide":8,"text":"Prepare","textPreview":"Prepare","textChars":7,"textLines":1,"bbox":[319,347,155,36]}
+{"kind":"textbox","id":"sh/i1k7ud07","slide":8,"text":"Improve","textPreview":"Improve","textChars":7,"textLines":1,"bbox":[540,347,155,36]}
+{"kind":"textbox","id":"sh/tsvqtszu","slide":8,"text":"Connect","textPreview":"Connect","textChars":7,"textLines":1,"bbox":[765,347,155,36]}
+{"kind":"textbox","id":"sh/srmp0nip","slide":8,"text":"Jobs & matching","textPreview":"Jobs & matching","textChars":15,"textLines":1,"bbox":[94,393,180,30]}
+{"kind":"textbox","id":"sh/ep0v2h4f","slide":8,"text":"CV & applications","textPreview":"CV & applications","textChars":17,"textLines":1,"bbox":[319,393,190,30]}
+{"kind":"textbox","id":"sh/zqtcvml0","slide":8,"text":"Learning & assessments","textPreview":"Learning & assessments","textChars":22,"textLines":1,"bbox":[540,393,210,30]}
+{"kind":"textbox","id":"sh/0r2d4rml","slide":8,"text":"Community & chat","textPreview":"Community & chat","textChars":16,"textLines":1,"bbox":[765,393,180,30]}
+{"kind":"shape","id":"sh/1sbexw36","slide":8,"bbox":[88,320,770,0]}
+{"kind":"textbox","id":"sh/mtkv614r","slide":8,"text":"CareerForge brings job discovery, CV management, skill development, assessments, resources, networking, and support together.","textPreview":"CareerForge brings job discovery, CV management, skill development, assessments, resources, networking, and support together.","textChars":125,"textLines":1,"bbox":[72,524,860,72]}
+{"kind":"shape","id":"sh/nutwz6lw","slide":8,"bbox":[72,674,1136,0]}
+{"kind":"textbox","id":"sh/ov2d8bmh","slide":8,"text":"CAREERFORGE","textPreview":"CAREERFORGE","textChars":11,"textLines":1,"bbox":[72,684,320,22]}
+{"kind":"textbox","id":"sh/9wbe1g32","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1150,682,58,24]}
+{"kind":"notes","id":"nt/luiv1i","slide":8,"text":"Present CareerForge as the integrated response: job discovery, CV management, learning, assessments, resources, networking, and career support in one place.\n\n[Sources]\n- Slide copy: user-provided CareerForge motivation speech.\n[/Sources]"}
+{"kind":"slide","id":"sl/rqqecb","slide":9,"title":"career","textShapes":6}
+{"kind":"textbox","id":"sh/o72pc7md","slide":9,"text":"career","textPreview":"career","textChars":6,"textLines":1,"bbox":[72,72,210,58]}
+{"kind":"textbox","id":"sh/369oj2ls","slide":9,"text":"forge","textPreview":"forge","textChars":5,"textLines":1,"bbox":[247,72,160,58]}
+{"kind":"textbox","id":"sh/250nax47","slide":9,"text":"Our goal","textPreview":"Our goal","textChars":8,"textLines":1,"bbox":[72,198,250,34]}
+{"kind":"textbox","id":"sh/dwb6pc3u","slide":9,"text":"Make the career journey\nof Bangladeshi students\nmore organized,\nskill-focused, and\nopportunity-driven.","textPreview":"Make the career journey | of Bangladeshi students | more organized, | skill-focused, and | opportunity-driven.","textChars":102,"textLines":5,"bbox":[72,252,780,270]}
+{"kind":"shape","id":"sh/cv2pgr29","slide":9,"bbox":[72,566,900,0]}
+{"kind":"textbox","id":"sh/butonmlo","slide":9,"text":"CareerForge is more than a job portal—it is a student’s digital career companion.","textPreview":"CareerForge is more than a job portal—it is a student’s digital career companion.","textChars":81,"textLines":1,"bbox":[72,596,900,32]}
+{"kind":"textbox","id":"sh/qtk7ehk3","slide":9,"text":"BYTEBOTS","textPreview":"BYTEBOTS","textChars":8,"textLines":1,"bbox":[1050,640,160,26]}
+{"kind":"notes","id":"nt/rqqecb","slide":9,"text":"Close with the main goal: make the career journey of Bangladeshi students organized, skill-focused, and opportunity-driven.\n\n[Sources]\n- Slide copy: user-provided CareerForge motivation speech.\n[/Sources]"}

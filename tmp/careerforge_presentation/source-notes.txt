@@ -1,0 +1,4 @@
+Slide content source: User-provided CareerForge motivation speech and team-member details in this conversation.
+Project verification source: F:\AOOP frontend and Spring Boot source files.
+Visual assets: local project assets from F:\AOOP\frontend\src\assets\ (not externally sourced).
+No external research, quotations, or web assets used.

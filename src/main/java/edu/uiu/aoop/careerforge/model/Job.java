@@ -29,7 +29,7 @@ public class Job {
     private Company company;
     @Column(name = "created_by") private Long createdBy;
     @Column(name = "source", length = 40) private String source;
-    @Column(name = "external_id", length = 100) private String externalId;
+    @Column(name = "external_id", length = 512) private String externalId;
     @Column(name = "source_url", length = 600) private String sourceUrl;
     private String title;
     @Column(length = 500) private String location;
